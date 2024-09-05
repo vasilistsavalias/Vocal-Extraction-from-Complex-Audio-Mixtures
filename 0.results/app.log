@@ -1,0 +1,92 @@
+2024-08-25 23:25:17,271 - my_logger - INFO - Processed batch - SDR: 1.3665, SIR: 0.0000, SAR: 1.3665
+2024-08-25 23:25:17,282 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:17,288 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:17,291 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:18,706 - my_logger - INFO - Processed batch - SDR: 1.3698, SIR: 0.0000, SAR: 1.3698
+2024-08-25 23:25:18,716 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:18,720 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:18,721 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:19,778 - my_logger - INFO - Processed batch - SDR: 0.4724, SIR: 0.0000, SAR: 0.4724
+2024-08-25 23:25:19,789 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:19,793 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:19,795 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:21,139 - my_logger - INFO - Processed batch - SDR: -inf, SIR: -inf, SAR: -inf
+2024-08-25 23:25:21,150 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:21,154 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:21,156 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:22,208 - my_logger - INFO - Processed batch - SDR: -inf, SIR: -inf, SAR: -inf
+2024-08-25 23:25:22,218 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:22,223 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:22,225 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:23,216 - my_logger - INFO - Processed batch - SDR: 1.3819, SIR: -0.0000, SAR: 1.3819
+2024-08-25 23:25:23,233 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:23,242 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:23,244 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:24,528 - my_logger - INFO - Processed batch - SDR: 1.6152, SIR: -0.0000, SAR: 1.6152
+2024-08-25 23:25:24,542 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:24,548 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:24,550 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:25,796 - my_logger - INFO - Processed batch - SDR: 0.8730, SIR: -0.0000, SAR: 0.8730
+2024-08-25 23:25:25,809 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:25,816 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:25,820 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:27,063 - my_logger - INFO - Processed batch - SDR: 1.2449, SIR: -0.0000, SAR: 1.2449
+2024-08-25 23:25:27,075 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:27,078 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:27,080 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:28,096 - my_logger - INFO - Processed batch - SDR: 1.4294, SIR: 0.0000, SAR: 1.4294
+2024-08-25 23:25:28,105 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:28,110 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:28,112 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:29,189 - my_logger - INFO - Processed batch - SDR: 0.7846, SIR: -0.0000, SAR: 0.7846
+2024-08-25 23:25:29,200 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:29,205 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:29,208 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:30,274 - my_logger - INFO - Processed batch - SDR: 1.7932, SIR: -0.0000, SAR: 1.7932
+2024-08-25 23:25:30,283 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:30,286 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:30,288 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:31,373 - my_logger - INFO - Processed batch - SDR: 0.6338, SIR: -0.0000, SAR: 0.6338
+2024-08-25 23:25:31,382 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:31,386 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:31,387 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:32,262 - my_logger - INFO - Processed batch - SDR: 1.0396, SIR: -0.0000, SAR: 1.0396
+2024-08-25 23:25:32,271 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:32,275 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:32,277 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:33,414 - my_logger - INFO - Processed batch - SDR: 1.9902, SIR: 0.0000, SAR: 1.9902
+2024-08-25 23:25:33,434 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:33,438 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:33,439 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:34,272 - my_logger - INFO - Processed batch - SDR: 1.6626, SIR: -0.0000, SAR: 1.6626
+2024-08-25 23:25:34,278 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:34,282 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:34,283 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:35,090 - my_logger - INFO - Processed batch - SDR: 1.4368, SIR: 0.0000, SAR: 1.4368
+2024-08-25 23:25:35,100 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:35,103 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:35,104 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:35,917 - my_logger - INFO - Processed batch - SDR: 0.8674, SIR: 0.0000, SAR: 0.8674
+2024-08-25 23:25:35,924 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:35,927 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:35,928 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:36,752 - my_logger - INFO - Processed batch - SDR: 1.4233, SIR: -0.0000, SAR: 1.4233
+2024-08-25 23:25:36,760 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:36,763 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:36,765 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:37,578 - my_logger - INFO - Processed batch - SDR: 0.7881, SIR: -0.0000, SAR: 0.7881
+2024-08-25 23:25:37,587 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:37,590 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:25:37,591 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:25:38,435 - my_logger - INFO - Processed batch - SDR: -inf, SIR: -inf, SAR: -inf
+2024-08-25 23:25:38,484 - my_logger - INFO - Final Test Metrics - SDR: -inf, SIR: -inf, SAR: -inf
+2024-08-25 23:25:51,456 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 23482, 2050])
+2024-08-25 23:25:51,485 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 23482, 256])
+2024-08-25 23:25:51,486 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 23482, 2050])
+2024-08-25 23:27:04,923 - my_logger - DEBUG - Mixture spec shape: (2, 1025, 603), Target spec shape: (2, 1025, 603)
+2024-08-25 23:27:05,936 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:27:05,939 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 603, 256])
+2024-08-25 23:27:05,941 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 603, 2050])
+2024-08-25 23:27:12,201 - my_logger - DEBUG - Input shape after reshape: torch.Size([1, 23482, 2050])
+2024-08-25 23:27:12,240 - my_logger - DEBUG - Output from LSTM shape: torch.Size([1, 23482, 256])
+2024-08-25 23:27:12,243 - my_logger - DEBUG - Mask shape before final reshape: torch.Size([1, 23482, 2050])

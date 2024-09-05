@@ -1,0 +1,6 @@
+batch_size: 64
+dropout_rate: 0.15887937727508228
+hidden_size: 64
+lr: 0.001704563281546802
+num_layers: 1
+weight_decay: 4.249285345958697e-06
